@@ -1,2 +1,2 @@
-# frontend-webpack-base-project
-Projeto de referência para iniciar o desenvolvimento frontend com webpack e demais ferramentas...
+# dashboard
+Modern dashboard with CSS 3/SASS, HTML 5, CSS Grid, Flexbox, WebPack, Babel - No framework
